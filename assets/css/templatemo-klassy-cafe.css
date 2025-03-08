@@ -655,6 +655,10 @@ banner
   letter-spacing: 3px;
   margin-top: 5px;
 }
+.info{
+    display: none;
+
+  }
 
 #top .left-content .main-white-button  {
   margin-top: 25px;
